@@ -1,0 +1,6 @@
+{
+  "name": "Waste2Worth – Turn Waste into Worth",
+  "description": "A college BCA mini-project waste-management awareness website to learn how to reduce, reuse, and recycle waste for a cleaner and greener future.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
